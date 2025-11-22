@@ -112,10 +112,10 @@ lcd.setCursor(0, 0);
 ![](https://github.com/EfrenQA/Reporte-1/blob/main/SIMULACI%C3%93N.png?raw=true)
 ## Instrucciones de operación
 1. Iniciar simulación con el botón de "PLAY"
-2. Visualizar los datos
+2. Visualizar los datos que se mostrarán en LCD
 3. Descargar valores
 ## Resultados
-Al finalizar cada paso se podrá obtener datos del simulador
-![](https://github.com/EfrenQA/Reporte-1/blob/main/SIMULACI%C3%93N.png?raw=true)
+Al finalizar cada paso se podrá obtener datos desde la simulación del LCD
+![](https://github.com/EfrenQA/REPORTE-2/blob/main/simulacion%202.png?raw=true)
 ## Créditos
 Autor Ing. Efren David Quiroz Ayala 
