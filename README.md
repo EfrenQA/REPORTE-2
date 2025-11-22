@@ -55,6 +55,8 @@ Se implementa el uso de un ```LCD 16x2 I2C``` que cumple la función de visualiz
 - PIN VCC del LCD al PIN VCC de la tarjeta.
 - PIN SDA del LCD al PIN 21 de la tarjeta.
 - PIN SCL del LCD al PIN 22 de la tarjeta.
+
+
 ![](https://github.com/EfrenQA/REPORTE-2/blob/main/layout2.png?raw=true)
 10. En el lado de "SKETCH" se debe colocar el siguiente código:
 ```
